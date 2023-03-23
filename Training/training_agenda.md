@@ -41,4 +41,4 @@ The second training session covers how to use the training data and Earth observ
 5. [Fit, optimise and evaluate classifier](../5_Fit_classifier.ipynb) - model fitting and cross validation
 6. [Model prediction and post-processing](../6_Create_test_map.ipynb) - generation of test maps over a small areas for visual inspection
 7. [Country-wide crop type map](../7_Create_country_map.ipynb) - generation of a country-wide crop type map
-8. [Crop area statistics](../8_Create_crop_statistics.ipynb) - generation of crop area statistics
+8. [Crop area statistics](../8_Calculate_crop_statistics.ipynb) - generation of crop area statistics
