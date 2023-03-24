@@ -1,4 +1,4 @@
-# National Crop Mapping using the Digital Earth Africa Platform
+# National Crop Type Mapping using the Digital Earth Africa Platform
 
 This repository contains Jupyter notebooks for crop type mapping and resources and materials that are used for the on-line training of crop mapping for Mozambique.
 
