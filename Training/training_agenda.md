@@ -6,7 +6,7 @@ Neverthless, despite the advances in technology, the unprecedented abundance of 
 
 In this context, FAO has launched the EOSTAT project in 2019 to unlock such potential, by building technical capacity in National Statistics Offices in countries and line Minisries concerned with land cover and crop statistics. 
 
-Under the framework of the EOSTAT FAO has deveoped a sereis of Jupyter Notebooks for training purpose. In this context FAO and Digital Africa have jointly developed this workflow to compute crop type maps using Sentinel-2 data available from the DE Africa platform. The scripts are designed to operate in the [Digital Earth Africa sandbox](https://sandbox.digitalearth.africa/) and to be used by self paced users and for the participants to one of the several EOSTAT Webinars. The calendar is available at:
+Under the framework of the EOSTAT FAO has deveoped a sereis of Jupyter Notebooks for training purpose. In this context FAO and Digital Africa have jointly developed this workflow to compute crop type maps using Sentinel-2 data available from the DE Africa platform. The scripts are designed to operate in the [Digital Earth Africa sandbox](https://sandbox.digitalearth.africa/) and to be used by self paced users and for the participants to one of the several EOSTAT Webinars. The calendar is available at https://www.fao.org/statistics/statistical-capacity-development/en/?hdhd
 
 General support on using DE Africa platform is available through the [DE Africa Help Desk](https://docs.digitalearthafrica.org/en/latest/about/contact.html).
 
