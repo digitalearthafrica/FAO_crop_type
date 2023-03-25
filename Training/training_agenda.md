@@ -1,4 +1,4 @@
-# FAO EOSTAT training: use of EO data to compute crop acreage in Digital Earth Africa.
+# FAO EOSTAT training: use of EO data to compute crop acreage.
 
 Earth Observations (EO) data has been early recognized by the UN Statistical as key source of Big Data that can be used as an integration and/or alternative to traditional statistical methods to produce official statistics and report on SDG. EO data are a key data source to support the modernization of national statistical systems lead and promoted by the UN Statistical Commission. In particular, EO data can be used to produce land cover statistics and land use statistics (crop acreage and yield) that are accurate, timely and granular. 
 
