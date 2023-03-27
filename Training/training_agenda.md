@@ -19,7 +19,7 @@ The crop type mapping workflow implements a supervised machine learning (ML) app
 * Building a ML classifier
 * Generation of a crop type map
 
-**Add a flowchat**
+<img src="crop_type_map_flowchart.png" alt="crop_type_map_flowchart" width="500" align="left"/>
 
 Each of these components can be tuned and refined based on type of training data available and the climate and cropping characteristics of the region of interest.
 
