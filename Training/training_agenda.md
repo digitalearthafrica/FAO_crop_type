@@ -25,6 +25,14 @@ Each of these components can be tuned and refined based on type of training data
 
 ## Training sessions
 
+Each session includes
+
+* Introduction and set up (15 min)
+* Demonstration of notebooks and hands-on exercises (90 min with stretching breaks)
+* Re-cap of key learnings (10 min)
+* Q & A (10 min)
+* Feedback collection (10 min)
+
 The first training session explores how to inspect and clean the training data for building a machine learning model using Earth observations.
 
 1. [Training data inspection](../1_Training_data_inspection.ipynb) - inspection of crop labels and preprocessing of training labels
